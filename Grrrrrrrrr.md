@@ -7,6 +7,9 @@
 - Create Local Repository 
 `git init`
 - Create code
+
+- SAVE CODE!!!
+
 `touch readme.md`
 - Track/Stage/Watch all of the files/folder
 ```
